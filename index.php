@@ -6,7 +6,7 @@
 echo '<pre>';
 
 
-$last_line = system('ifconfig', $retval);
+$last_line = system('date', $retval);
 
 
 echo '
